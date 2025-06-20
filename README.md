@@ -2,7 +2,7 @@
 
 <body>
 
-  <h1>Golang Course Timestamps</h1>
+  <h1>Golang practice Index </h1>
   <ul> Intro</li>
     <li> Why Golang</li>
     <li> Golang installation</li>
